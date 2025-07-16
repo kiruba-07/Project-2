@@ -52,6 +52,7 @@ Tenure Impact: Employees with lower tenure have higher attrition rates, indicati
 Satisfaction Levels: Low satisfaction scores are associated with higher attrition, emphasizing the need for employee engagement strategies.
 
 ## Dashboard
+<img width="1920" height="1080" alt="Screenshot (247)" src="https://github.com/user-attachments/assets/676b7317-ffe1-4d5a-bb5d-443e9611563f" />
 
 ## Project Insights
 * Attrition Rate: Clear visibility into department-wise and gender-wise attrition rates.
