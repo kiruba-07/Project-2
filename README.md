@@ -1,4 +1,4 @@
-#### HR analytics to track employee performance
+# HR analytics to track employee performance
 This project leverages Tableau and Python (pandas) to analyze and visualize HR data for tracking employee performance and attrition trends, empowering HR teams to make data-driven decisions for retaining talent and improving productivity.
 ## Objective:
 To analyze and visualize employee performance, attrition, and satisfaction using Tableau, enabling HR and stakeholders to identify key factors influencing employee performance and retention, supporting data-driven workforce strategies.
