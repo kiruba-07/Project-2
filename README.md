@@ -1,4 +1,4 @@
-# HR analytics to track employee performance
+# HR Analytics to track employee performance
 This project leverages Tableau and Python (pandas) to analyze and visualize HR data for tracking employee performance and attrition trends, empowering HR teams to make data-driven decisions for retaining talent and improving productivity.
 ## Objective:
 To analyze and visualize employee performance, attrition, and satisfaction using Tableau, enabling HR and stakeholders to identify key factors influencing employee performance and retention, supporting data-driven workforce strategies.
@@ -12,19 +12,19 @@ HR Employee Attrition dataset from IBM Watson.
 Includes employee demographics, job roles, satisfaction levels, performance ratings, and attrition status.
 
 ## Process
-📥 Data Collection & Cleaning
+### Data Collection & Cleaning
 Imported the HR Employee Attrition dataset into Tableau.
 
 Removed unnecessary columns to reduce memory.
 
 Ensured correct data types for categorical and numerical fields.
 
-📊 Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 Explored attrition patterns across departments, gender, and job roles.
 
 Analyzed distributions of performance ratings and satisfaction metrics.
 
-⚙️ Feature Engineering
+### Feature Engineering
 Calculated average performance rating.
 
 Computed attrition rates by department and gender using Tableau calculated fields.
@@ -54,11 +54,11 @@ Satisfaction Levels: Low satisfaction scores are associated with higher attritio
 ## Dashboard
 
 ## Project Insights
-✅ Attrition Rate: Clear visibility into department-wise and gender-wise attrition rates.
-✅ Performance Monitoring: Track average performance rating across departments.
-✅ Employee Satisfaction: Identify departments with low satisfaction scores linked to attrition.
-✅ Tenure and Attrition: Short-tenure employees are more likely to leave, aiding early intervention.
-✅ Interactive Filtering: Enables HR to slice data by department, gender, and job role for focused analysis.
+* Attrition Rate: Clear visibility into department-wise and gender-wise attrition rates.
+* Performance Monitoring: Track average performance rating across departments.
+* Employee Satisfaction: Identify departments with low satisfaction scores linked to attrition.
+* Tenure and Attrition: Short-tenure employees are more likely to leave, aiding early intervention.
+* Interactive Filtering: Enables HR to slice data by department, gender, and job role for focused analysis.
 
 ## Conclusion
 This project successfully identifies key patterns in employee performance and attrition, supporting HR in making data-driven decisions to improve retention and workforce productivity. The interactive Tableau dashboard enables easy tracking of performance metrics, attrition, and satisfaction across different employee segments, providing a clear, actionable view for HR leadership.
