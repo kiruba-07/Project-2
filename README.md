@@ -7,9 +7,6 @@ To analyze and visualize employee performance, attrition, and satisfaction using
 I developed a project to visualize employee performance and attrition insights using interactive dashboards created in Tableau. It includes key metrics such as average performance rating, attrition rates by department and gender, and satisfaction levels, with filters for department, gender, and job role for user-driven exploration.
 
 ## Dataset Used
-HR Employee Attrition dataset from IBM Watson.
-
-Includes employee demographics, job roles, satisfaction levels, performance ratings, and attrition status.
 
 ## Process
 ### Data Collection & Cleaning
